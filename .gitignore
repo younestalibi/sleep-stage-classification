@@ -1,0 +1,28 @@
+.vscode 
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual env
+.venv/
+env/
+
+# Data / outputs
+*.npy
+*.pkl
+*.pt
+*.h5
+*.csv
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+*.txt
